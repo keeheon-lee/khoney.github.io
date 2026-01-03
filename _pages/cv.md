@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+Click [here] (file:///C:/Users/lkeeh/Downloads/KL_CV%20.pdf) for my latest CV (November 2025).
 {% include base_path %}
 
 Education
