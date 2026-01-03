@@ -23,9 +23,9 @@ repository               : "https://keeheon-lee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/Keeheon Lee_Passport Photo (2022).jpg"
+  avatar           : "files/keeheon-lee-passport-photo.jpg"
   name             : "Keeheon Lee"
-  pronouns         : # example: "she/her"  
+  pronouns         : # pronouns  
   bio              : "Ph.D. Student in Government"
   location         : "Washington, DC"
   employer         : "Georgetown University"
