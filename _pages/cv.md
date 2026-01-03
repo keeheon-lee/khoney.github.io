@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download my CV here] (https://keeheon-lee.github.io/files/grasse_cv_FA25.pdf)
+[Download my CV here] (https://keeheon-lee.github.io/files/KL_CV.pdf)
 {% include base_path %}
 
 Education
